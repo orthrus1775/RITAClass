@@ -38,8 +38,12 @@ ls -GFlash /etc/rita
 
 ```bash
 less config.hjson
-```
+```  
 
+```bash
+zeek  
+```  
+We will only be using zeek to import pcaps but it is also capable of live captures.    
 
 ## Questions  
 1. When someone executes `rita` what is going on in the background?  
