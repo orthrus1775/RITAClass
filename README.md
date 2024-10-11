@@ -27,8 +27,18 @@ ssh analyst@X.X.X.X
 | Workstation 13 | 192.168.10.22 | 
 | Workstation 14 | 192.168.10.22 | 
 | Workstation 15 | 192.168.10.22 | 
+| Workstation 16 | 192.168.10.22 |
+| Workstation 15 | 192.168.10.22 | 
 | Workstation 16 | 192.168.10.22 | 
-
+| Workstation 17 | 192.168.10.22 | 
+| Workstation 18 | 192.168.10.22 | 
+| Workstation 19 | 192.168.10.22 | 
+| Workstation 20 | 192.168.10.22 | 
+| Workstation 21 | 192.168.10.22 |  
+| Workstation 22 | 192.168.10.22 | 
+| Workstation 23 | 192.168.10.22 | 
+| Workstation 24 | 192.168.10.22 | 
+| Workstation 25 | 192.168.10.22 | 
 
 
 ## Getting to know RITA 
