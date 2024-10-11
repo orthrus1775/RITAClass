@@ -8,7 +8,28 @@ SSH to your assigned vm with the following credentials
 ```bash
 ssh analyst@X.X.X.X
 ```  
-**Required pcaps for labs are in the ~/pcaps directory**
+**Required pcaps for labs are in the ~/pcaps directory**  
+
+| Workstation| VM Assignment | 
+| :----------| :------------ | 
+| Workstation 1 | 192.168.10.22 | 
+| Workstation 2 | 192.168.10.22 | 
+| Workstation 3 | 192.168.10.22 | 
+| Workstation 4 | 192.168.10.22 | 
+| Workstation 5 | 192.168.10.22 | 
+| Workstation 6 | 192.168.10.22 | 
+| Workstation 7 | 192.168.10.22 | 
+| Workstation 8 | 192.168.10.22 | 
+| Workstation 9 | 192.168.10.22 | 
+| Workstation 10 | 192.168.10.22 | 
+| Workstation 11 | 192.168.10.22 | 
+| Workstation 12 | 192.168.10.22 | 
+| Workstation 13 | 192.168.10.22 | 
+| Workstation 14 | 192.168.10.22 | 
+| Workstation 15 | 192.168.10.22 | 
+| Workstation 16 | 192.168.10.22 | 
+
+
 
 ## Getting to know RITA 
 First take a look at the RITA [github](https://github.com/activecm/rita) page and Active Countermeasures [post](https://www.activecountermeasures.com/intro-to-rita-v5/) about RITA  
