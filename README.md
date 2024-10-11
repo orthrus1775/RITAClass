@@ -8,10 +8,6 @@ SSH to your assigned vm with the following credentials
 ```bash
 ssh analyst@X.X.X.X
 ```  
-Execute the `setup.sh` script  if it does not run refer to the setup.sh script in this branch  
-
-This should have created individual folders for each lab.  
-
 **Required pcaps for labs are in the ~/pcaps directory**
 
 ## Getting to know RITA 
