@@ -12,33 +12,30 @@ ssh analyst@X.X.X.X
 
 | Workstation| VM Assignment | 
 | :----------| :------------ | 
-| Workstation 1 | 192.168.10.22 | 
-| Workstation 2 | 192.168.10.22 | 
-| Workstation 3 | 192.168.10.22 | 
-| Workstation 4 | 192.168.10.22 | 
-| Workstation 5 | 192.168.10.22 | 
-| Workstation 6 | 192.168.10.22 | 
-| Workstation 7 | 192.168.10.22 | 
-| Workstation 8 | 192.168.10.22 | 
-| Workstation 9 | 192.168.10.22 | 
-| Workstation 10 | 192.168.10.22 | 
-| Workstation 11 | 192.168.10.22 | 
-| Workstation 12 | 192.168.10.22 | 
-| Workstation 13 | 192.168.10.22 | 
-| Workstation 14 | 192.168.10.22 | 
-| Workstation 15 | 192.168.10.22 | 
-| Workstation 16 | 192.168.10.22 |
-| Workstation 15 | 192.168.10.22 | 
-| Workstation 16 | 192.168.10.22 | 
-| Workstation 17 | 192.168.10.22 | 
-| Workstation 18 | 192.168.10.22 | 
-| Workstation 19 | 192.168.10.22 | 
-| Workstation 20 | 192.168.10.22 | 
-| Workstation 21 | 192.168.10.22 |  
-| Workstation 22 | 192.168.10.22 | 
-| Workstation 23 | 192.168.10.22 | 
-| Workstation 24 | 192.168.10.22 | 
-| Workstation 25 | 192.168.10.22 | 
+| Workstation 1 | 192.168.10.61 | 
+| Workstation 2 | 192.168.10.51 | 
+| Workstation 3 | 192.168.10.53 | 
+| Workstation 4 | 192.168.10.62 | 
+| Workstation 5 | 192.168.10.54 | 
+| Workstation 6 | 192.168.10.55 | 
+| Workstation 7 | 192.168.10.56 | 
+| Workstation 8 | 192.168.10.57 | 
+| Workstation 9 | 192.168.10.58 | 
+| Workstation 10 | 192.168.10.200 | 
+| Workstation 11 | 192.168.10.42 | 
+| Workstation 12 | 192.168.10.43 | 
+| Workstation 13 | 192.168.10.44 | 
+| Workstation 14 | 192.168.10.45 | 
+| Workstation 15 | 192.168.10.46 | 
+| Workstation 16 | 192.168.10.47 |
+| Workstation 15 | 192.168.10.48 | 
+| Workstation 16 | 192.168.10.47 | 
+| Workstation 17 | 192.168.10.48 | 
+| Workstation 18 | 192.168.10.49 | 
+| Workstation 19 | 192.168.10.50 | 
+| Workstation 20 | 192.168.10.52 | 
+| Workstation 21 | 192.168.10.59 |  
+| Workstation 22 | 192.168.10.60 | 
 
 
 ## Getting to know RITA 
